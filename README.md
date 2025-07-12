@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 - 💻 Primary language: **PHP**  
 - 🚀 Exploring: **Phoenix Framework**  
