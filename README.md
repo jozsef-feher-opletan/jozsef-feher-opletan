@@ -1,5 +1,12 @@
-## Hi there 👋
+# About Me
 
+- 💻 Primary language: **PHP**  
+- 🚀 Exploring: **Phoenix Framework**  
+- 🐍 Currently learning: **Python**  
+- 🤖 Passionate about **AI development**  
+- 🔧 Building practical, real-world tools  
+- 📚 Always eager to learn and contribute
+  
 <!--
 **Jozsef-Feher/Jozsef-Feher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
