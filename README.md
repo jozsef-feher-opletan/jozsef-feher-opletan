@@ -1,4 +1,4 @@
-## About Me
+## Hi, I'm Jozsef Feher
 
 - 💻 Primary language: **PHP**  
 - 🚀 Exploring: **Phoenix Framework**  
