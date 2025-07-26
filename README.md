@@ -1,11 +1,12 @@
 ## Hi, I'm Jozsef Feher
 
-- 💻 Primary language: **PHP**  
-- 🚀 Exploring: **Phoenix Framework**  
-- 🐍 Currently learning: **Python**  
-- 🤖 Passionate about **AI development**  
-- 🔧 Building practical, real-world tools  
-- 📚 Always eager to learn and contribute
+- 💻 Primary language: **PHP**
+- 🌐 Comfortable with Drupal (site building, custom module development)
+- 🚀 Exploring Elixir & Phoenix Framework
+- 🐍 Currently learning Python (data processing, scripting)
+- 🤖 Interested in AI development (LLMs, automation)
+- 🔧 Focused on building scalable, real-world applications
+- 📚 Continuous learner
   
 <!--
 **Jozsef-Feher/Jozsef-Feher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
