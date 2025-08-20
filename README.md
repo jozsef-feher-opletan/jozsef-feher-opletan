@@ -1,9 +1,9 @@
 ## Hi, I'm Jozsef Feher
 
 - 💻 Primary language: **PHP**
+- 🐍 Actively improving my Python skills (data processing, scripting)
 - 🌐 Comfortable with Drupal (site building, custom module development)
 - 🚀 Exploring Elixir & Phoenix Framework
-- 🐍 Currently learning Python (data processing, scripting)
 - 🤖 Interested in AI development (LLMs, automation)
 - 🔧 Focused on building scalable, real-world applications
 - 📚 Continuous learner
