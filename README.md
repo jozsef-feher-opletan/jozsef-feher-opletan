@@ -1,13 +1,14 @@
 ## Hi, I'm Jozsef Feher 👋
 
-💻 Primary language: PHP – transitioning to Python (exploring Django)
-🐍 Actively improving my Python skills (data processing, scripting)
-🌐 Comfortable with Drupal (site building, custom module development)
-🎨 Experienced with HTML, CSS, Bootstrap
-🛢️ Proficient in SQL (MySQL, PostgreSQL)
-🚀 Exploring Elixir & Phoenix Framework
-🤖 Interested in AI development (LLMs, automation)
-🔧 Focused on building scalable applications
+- 💻 Primary language: **PHP** – transitioning to **Python** (exploring **Django**)  
+- 🐍 Actively improving my **Python** skills (data processing, scripting)  
+- 🌐 Comfortable with **Drupal** (site building, custom module development)  
+- 🎨 Experienced with **HTML, CSS, Bootstrap**  
+- 🛢️ Proficient in **SQL** (MySQL)  
+- 🚀 Exploring **Elixir & Phoenix Framework**  
+- 🤖 Interested in AI development (LLMs, automation)  
+- 🔧 Focused on building **scalable applications**  
+- 📚 Continuous learner  
 
 <!--
 **Jozsef-Feher/Jozsef-Feher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
