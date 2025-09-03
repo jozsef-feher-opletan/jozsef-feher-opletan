@@ -8,7 +8,6 @@
 - 🚀 Exploring **Elixir & Phoenix Framework**  
 - 🤖 Interested in AI development (LLMs, automation)  
 - 🔧 Focused on building **scalable applications**  
-- 📚 Continuous learner  
 
 <!--
 **Jozsef-Feher/Jozsef-Feher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
