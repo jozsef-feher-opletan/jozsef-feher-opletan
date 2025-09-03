@@ -4,7 +4,7 @@
 🐍 Actively improving my Python skills (data processing, scripting)
 🌐 Comfortable with Drupal (site building, custom module development)
 🎨 Experienced with HTML, CSS, Bootstrap
-🛢️ Proficient in SQL (MySQL)
+🛢️ Proficient in SQL (MySQL, PostgreSQL)
 🚀 Exploring Elixir & Phoenix Framework
 🤖 Interested in AI development (LLMs, automation)
 🔧 Focused on building scalable applications
