@@ -1,13 +1,14 @@
 ## Hi, I'm Jozsef Feher 👋
 
-💻 Primary language: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) – transitioning to ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (exploring ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white))  
-🌐 Comfortable with ![Drupal](https://img.shields.io/badge/Drupal-0C4DA2?style=for-the-badge&logo=drupal&logoColor=white)  
-🎨 Experienced with ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-🖴 Proficient in ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) (MySQL, PostgreSQL)  
-🚀 Exploring ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) & ![Phoenix](https://img.shields.io/badge/Phoenix-212121?style=for-the-badge&logo=phoenix-framework&logoColor=white)  
-🤖 Interested in AI development (LLMs, automation)  
-🔧 Focused on building scalable applications 
-  
+💻 Primary language: PHP – transitioning to Python (exploring Django)
+🐍 Actively improving my Python skills (data processing, scripting)
+🌐 Comfortable with Drupal (site building, custom module development)
+🎨 Experienced with HTML, CSS, Bootstrap
+🛢️ Proficient in SQL (MySQL)
+🚀 Exploring Elixir & Phoenix Framework
+🤖 Interested in AI development (LLMs, automation)
+🔧 Focused on building scalable applications
+
 <!--
 **Jozsef-Feher/Jozsef-Feher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
